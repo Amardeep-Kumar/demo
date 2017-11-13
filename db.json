@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+		"name": "James Bond",
+		"id": "007"
+	}, {
+		"name": "John wick",
+		"id": "008"
+	},
+	{
+		"name": "Alexa",
+		"id": "009"
+	}, {
+		"name": "Sinichho",
+		"id": "001"
+	},
+	{
+		"name": "Jaimiko chi",
+		"id": "017"
+	}, {
+		"name": "Shaihto",
+		"id": "018"
+	},
+	{
+		"name": "Ruth",
+		"id": "019"
+	}, {
+		"name": "Sinichho",
+		"id": "002"
+	}
+]
